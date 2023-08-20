@@ -1,0 +1,9 @@
+# Ignore
+
+tmp/
+.env*
+jwtConfig.json
+
+# Allow
+
+!.env*.sample
